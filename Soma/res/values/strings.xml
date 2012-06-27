@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SomaActivity!</string>
+    <string name="app_name">Soma</string>
+    <string name="primeiroNumero">Digite o primeiro numero</string>
+    <string name="segundoNumero">Digite o segundo numero</string>
+    <string name="resultado">Resultado</string>
+    <string name="soma">Soma</string>
+
+</resources>
